@@ -1,0 +1,19 @@
+h1{
+    text-align: center;
+    color: blueviolet;
+}
+h2{
+    text-align: left;
+    color: yellowgreen;
+    font-style: italic;
+}
+p{
+    font-family: sans-serif;
+}
+ul{
+    line-height: 40px;
+}
+img{
+    image width: 5%;
+    image height: 30%;
+}
