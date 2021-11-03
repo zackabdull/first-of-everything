@@ -1,3 +1,7 @@
+body{
+    background-color: rgb(5, 5, 5);
+     color: white;
+}
 h1{
     text-align: center;
     color: blueviolet;
@@ -13,7 +17,15 @@ p{
 ul{
     line-height: 40px;
 }
-img{
-    image width: 5%;
-    image height: 30%;
+.first{
+    max-width: 100%;
+    height: auto;
+}
+.second{
+    max-width: 100%;
+    height: auto;
+}
+.third{
+    max-width: 100%;
+    height: auto;
 }
